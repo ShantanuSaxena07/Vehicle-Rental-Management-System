@@ -1,0 +1,15 @@
+# Compiled bytecode & class files
+bin/
+*.class
+
+# IDE & Editor configuration
+.vscode/
+.idea/
+*.iml
+
+# Dependencies / Archive jars
+*.jar
+
+# OS metadata
+.DS_Store
+Thumbs.db
